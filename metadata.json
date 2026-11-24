@@ -1,0 +1,6 @@
+{
+  "name": "E-Tergov Lab — Virtual Tergov Simulyatori",
+  "description": "Huquqni muhofaza qilish akademiyasi talabalari uchun 102 xabaridan sud majlisigacha bo'lgan interaktiv virtual tergov simulyatori.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
